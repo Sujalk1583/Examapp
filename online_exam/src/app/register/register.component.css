@@ -1,0 +1,35 @@
+body
+{
+    display: inline-block;
+}
+input
+{
+    display: inline-block;
+    margin: 5px;
+    padding: 10px;
+    justify-content: center;
+}
+table,th,td
+{
+    border:1px solid black;
+}
+
+th,td
+{
+    padding: 10px;
+}
+
+table
+{
+    margin: auto;
+}
+#button
+{
+    color: black;
+}
+#button:hover
+{
+    color: blue;
+    text-decoration: underline;
+    font-size: larger;
+}
